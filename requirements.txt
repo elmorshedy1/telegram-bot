@@ -1,0 +1,6 @@
+telethon==1.32.1
+python-dotenv==1.0.0
+nest-asyncio==1.5.8
+aiohttp==3.9.1
+asyncio==3.4.3
+uvloop==0.18.0
